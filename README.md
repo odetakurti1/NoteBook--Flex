@@ -8,10 +8,6 @@ In the project directory, you can run:
 
 ### `npm install`
 
-<!-- Install React Router Dom -->
-
-### `npm install react-router-dom@6`
-
 <!-- Install Tailwind CSS Framework -->
 
 ### `npm install -D tailwindcss postcss autoprefixer`
